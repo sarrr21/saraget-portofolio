@@ -55,7 +55,7 @@ export default {
           status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
           tech: 'VueJS 3, Tailwind',
           github: 'https://github.com/rakha-elctrnx/Portofolio-v2',
-          demo: 'https://bagasrakha.netlify.app/'
+          demo: 'https://saraget-portofolio-git-main-saras-projects-4ef89592.vercel.app/'
         },
         {
           id: 2,
@@ -63,8 +63,8 @@ export default {
           imageUrl: 'birr',
           status: 'Birrpay is an admin panel for managing a Flutter-based mobile app. It allows administrators to post, update, and delete products, review and approve payments, and oversee various app activities. This tool ensures efficient administration and smooth operation of the mobile application.',
           tech: 'React Js, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/muslim-companion',
-          demo: 'https://sahabat-muslim.netlify.app/'
+          github: 'https://github.com/sarrr21/BirrPay',
+          demo: null
         },
         {
           id: 3,
@@ -81,7 +81,7 @@ export default {
           imageUrl: 'ec',
           status: 'Successfully developed  a fully functional e-commerce website with robust order management, secure payment integration, and a user-friendly interface. Implemented intuitive UI/UX design principles resulting in enhanced customer engagement and a streamlined shopping experience. Achieved significant improvements in conversion rates and customer satisfaction.',
           tech: 'Next Js, Tailwind',
-          github: null,
+          github: "https://github.com/Dirac1235/e-commerce",
           demo: null
         }
       ]
