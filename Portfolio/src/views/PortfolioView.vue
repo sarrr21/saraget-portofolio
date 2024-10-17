@@ -59,6 +59,15 @@ export default {
         },
         {
           id: 2,
+          name: 'Gataama Website',
+          imageUrl: 'gat',
+          status: 'The Gataama website is a dynamic organization platform built with React.js and Tailwind CSS, featuring a blog, streaming system, and an advanced chatbot. The site also includes several additional features aimed at enhancing user experience. I serve as the front-end developer, responsible for both the main site and the admin side, ensuring a seamless and responsive design across all platforms.',
+          tech: 'React js, Tailwind',
+          github: '',
+          demo: 'https://gataama.com/'
+        },
+        {
+          id: 3,
           name: 'BirrPay',
           imageUrl: 'birr',
           status: 'Birrpay is an admin panel for managing a Flutter-based mobile app. It allows administrators to post, update, and delete products, review and approve payments, and oversee various app activities. This tool ensures efficient administration and smooth operation of the mobile application.',
